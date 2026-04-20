@@ -7,6 +7,7 @@ allowed-tools: Read Write Bash WebSearch
 metadata:
   author: openpersona
   version: "0.1.0"
+---
 
 # brand-persona-skill
 
